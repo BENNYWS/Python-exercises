@@ -16,7 +16,7 @@ obj1 = Car("Maruti Baleno", "1197cc", "21.4km/l")
 obj2 = Car("Hyundai Elite i20", "1197cc", "18.6km/l")
 obj3 = Car("Honda Jazz", "1197cc", "18km/l")
 
-print(obj1)
+print
 obj1.getDetails()
 obj2.getDetails()
-obj2.getDetails()
+obj3.getDetails()
